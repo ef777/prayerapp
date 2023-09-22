@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18581242751",
+    "project_id": "prayerapp-13c4f",
+    "storage_bucket": "prayerapp-13c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18581242751:android:3f504ab86052a7d213504a",
+        "android_client_info": {
+          "package_name": "com.namazvakitleri.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18581242751-2v07alspr7am9254lhue25o2vm4222rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0WLVZ-xJek_iKaPgWEwSRyqW4n5gFwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18581242751-2v07alspr7am9254lhue25o2vm4222rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
